@@ -77,8 +77,6 @@ client.
 |---|---|---|
 | [**PawlyAPI**](https://github.com/christianbaldeo12/PawlyAPI) | REST backend for the platform | .NET 10 Web API · JWT auth · BCrypt · FluentValidation · Serilog · Supabase/Postgres (row‑level security) · Resend email · xUnit |
 | [**PawlyPWA**](https://github.com/christianbaldeo12/PawlyPWA) | Progressive Web App front end | Blazor Server (.NET 10, Interactive SSR) · Refit typed API client · service worker + manifest · deployed on Railway |
-| [**pawly**](https://github.com/christianbaldeo12/pawly) | Cross‑platform mobile/web client | Flutter · Dart |
-| **pawly‑website** | Marketing landing page | HTML · CSS · JavaScript |
 
 ---
 
